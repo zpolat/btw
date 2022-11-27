@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    /* width: 550px; */
+    /* background: #6943FF; */
+    font-family: 'Inter', sans-serif;
+    width: 550px;
+    height: 429px;
+}
+
+.main {
+    background: #6943FF;
+    height: 285px;
+    color: #FFFFFF;
+    font-size: 28px;
+    font-weight: extrabold;
+    text-shadow: 2px 2px #000000;
+    text-align: center;
+}
+
+.inputdiv {
+    display:inline-block; 
+}
+
+#input-el {
+    width: 120px;
+    margin-bottom: 40px;
+}
+
+#mainid {
+    margin-top: 0px;
+    padding-top: 30px;
+}
+
+#cijfer {
+    font-size: 58px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+#btn {
+    padding-top: px;
+    border: 1px solid;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 5px 10px;
+    font-weight: lighter;
+    
+}
+
+.resultaat {
+    background: #F4F4F4;
+    height: 444px;
+    text-align:center;
+
+}
+
+.groep {
+    height: 108px;
+    width: 500px;
+    background: #FFFFFF;
+    border: none;
+    margin: 6px;;
+    display:inline-block;  
+    border-radius: 10px;
+    color: #5A537B;
+}
+
+.subtitel {
+    font-size: 18px;
+    font-weight: lighter;
+}
