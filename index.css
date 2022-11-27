@@ -3,7 +3,7 @@ body {
     /* width: 550px; */
     /* background: #6943FF; */
     font-family: 'Inter', sans-serif;
-    width: 550px;
+    width: 90%%;
     height: 429px;
     margin: auto;
     /* text-align: center; */
@@ -58,6 +58,10 @@ body {
     background: #F4F4F4;
     height: 444px;
     text-align:center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  justify-content: center;
 
 }
 
